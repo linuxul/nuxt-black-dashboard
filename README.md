@@ -77,6 +77,11 @@ We are very excited to share this dashboard with you and we look forward to hear
 ## Documentation
 The documentation for the Nuxt Black Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/nuxt/overview/black-dashboard).
 
+# Node version
+
+nvm install 16.20.1
+
+npm install --save-dev @babel/plugin-proposal-private-property-in-object
 
 ## File Structure
 
